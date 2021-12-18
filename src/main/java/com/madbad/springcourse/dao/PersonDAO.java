@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Component
-public class PeopleDao {
+public class PersonDAO {
     private static int PEOPLE_COUNT;
     private List<Person>list;
 
